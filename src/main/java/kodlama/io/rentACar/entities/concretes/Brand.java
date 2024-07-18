@@ -5,7 +5,6 @@ public class Brand {
     private String name;
 
     public Brand() {
-        super();
     }
 
     public Brand(int id, String name) {
